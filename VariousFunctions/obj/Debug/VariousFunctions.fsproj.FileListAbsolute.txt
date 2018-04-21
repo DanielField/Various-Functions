@@ -1,0 +1,11 @@
+c:\users\daniel field\source\repos\VariousFunctions\VariousFunctions\bin\Debug\VariousFunctions.exe.config
+c:\users\daniel field\source\repos\VariousFunctions\VariousFunctions\bin\Debug\VariousFunctions.XML
+c:\users\daniel field\source\repos\VariousFunctions\VariousFunctions\bin\Debug\VariousFunctions.exe
+c:\users\daniel field\source\repos\VariousFunctions\VariousFunctions\bin\Debug\VariousFunctions.pdb
+c:\users\daniel field\source\repos\VariousFunctions\VariousFunctions\bin\Debug\FSharp.Core.dll
+c:\users\daniel field\source\repos\VariousFunctions\VariousFunctions\bin\Debug\System.ValueTuple.dll
+c:\users\daniel field\source\repos\VariousFunctions\VariousFunctions\bin\Debug\FSharp.Core.xml
+c:\users\daniel field\source\repos\VariousFunctions\VariousFunctions\obj\Debug\VariousFunctions.fsprojResolveAssemblyReference.cache
+c:\users\daniel field\source\repos\VariousFunctions\VariousFunctions\obj\Debug\VariousFunctions.fsproj.CopyComplete
+c:\users\daniel field\source\repos\VariousFunctions\VariousFunctions\obj\Debug\VariousFunctions.exe
+c:\users\daniel field\source\repos\VariousFunctions\VariousFunctions\obj\Debug\VariousFunctions.pdb
